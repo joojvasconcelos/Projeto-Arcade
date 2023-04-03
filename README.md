@@ -1,2 +1,2 @@
 # Projeto-Arcade
-Teste
+Integrantes: Lucas Salviano, Leandro Sarkis e Jorge Vasconcelos
