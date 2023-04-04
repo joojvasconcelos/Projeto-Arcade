@@ -8,5 +8,5 @@ O Projeto Arcade consiste na criação de um Arcade, o qual possui inicialmente 
 2-Show do milhão: O jogo é Single Player e possui uma série de perguntas acerca de diversas temáticas, quando o jogador acertar ganha uma certa quantia, ao passar de fase, o prêmio aumenta e a dificuldade também, o jogo consiste em ganhar ou perder.
 2.2-Desenvolvimento do Show do milhão:
 
-3-Gousmar War:O jogo é Multiplayer Local, com dois jogadores, cada um possui duas gousmas(slimes) com 1 de fúria cada, quando a gousma é atacada acrescenta uma unidade de fúria, consequentemente a gousma fica com 2 de fúria
+3-Gousmar War:O jogo é Multiplayer Local, com dois jogadores, cada um possui duas gousmas(slimes) com 1 de fúria cada, quando a gousma é atacada acrescenta uma unidade de fúria, consequentemente a gousma fica com 2 de fúria, e assim consecutivamente até o jogador possuir duas gousma com fúria 5, caso isso aconteça, a rodada é considerada como perdida.
 
