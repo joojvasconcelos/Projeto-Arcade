@@ -4,7 +4,7 @@ O Projeto Arcade consiste na criação de um Arcade, o qual possui inicialmente 
 
                                                         1-Cobra na Caixa:
 O jogo possui dois jogadores e funciona por rodadas, tendo como principal objetivo encontrar o botão, caso contrário, o jogador que encontrar uma cobraperderá. São disponibilizadas 5 caixas, dentro de duas dessas  contém uma cobra e um botão que são colocados aleatoriamente, enquanto as outras três estão caixas vazias.  
-1
+
 
                                                         2-Show do milhão: 
 O jogo é Single Player e possui uma série de perguntas acerca de diversas temáticas, quando o jogador acertar ganha uma certa quantia, ao passar de fase, o prêmio aumenta e a dificuldade também, o jogo consiste em ganhar ou perder.
